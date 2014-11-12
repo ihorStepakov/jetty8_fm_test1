@@ -1,6 +1,6 @@
-Name: jetty8-t1
-Cartridge-Short-Name: JETTY8-t1
-Display-Name: JETTY8-t1
+Name: nginx
+Cartridge-Short-Name: nginx
+Display-Name: nginx
 Description: "Jelastic Jetty8"
 Version: '8.14'
 License: 'Apache licence'
